@@ -10,6 +10,81 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 21-Apr-2020
+
+### Agenda
+
+* Retro
+* Board
+  * Planning doc
+* Hot topics
+  * Trying things and getting punished for it
+    * [Principle of Charity](https://en.wikipedia.org/wiki/Principle_of_charity)
+  * RL1 Hackathon
+  * Checklist: RL1 issues and mainnet needs
+    * Needs swarming
+  * BD + DevX process
+    * Let's start on bigger companies
+    * Needs devx help
+  * DAOjam Hack @Peter sets up task force for collecting feedback.
+  * Friday hackathon
+    * Collect devx feedback
+    * Pull out actionable
+    * Rust cross-contract doesn't work
+    * Talk to Amos about platform
+    * Talk to Alexandra
+
+### Deliverables
+
+* Workshops @amgando
+  * Propogate the form for submitting broadly
+  * All submitted by Thursday
+  * Tested and ready to go by May 6th
+* Automated Docs
+  * Needs: "The docs are in these locations" √ @chadoh
+  * Next step: "Link to them in docs" @amgando
+* Zero to Hero Tutorial
+  * Backlogged: "Finish the new example (needs UI)" @janedegtiareva
+* Gas Estimates
+  * Needs: "runtime --> wasm"
+  * Next steps: "wrap CLI, user flow and example code"
+* Shell 
+  * NEP fleshed out @mikedotexe
+  * Immediate needs
+  * Metrics: PR in for flow of logging in mixpanel on one shell command
+    * Next steps: @vgrichina and @kendall draft PR for logging NEAR Shell logins
+* TLD Epic
+  * @janedegtiareva: https://github.com/nearprotocol/near-shell/issues/307
+  * @chadoh: https://github.com/nearprotocol/nearcore/issues/2292
+* RL1 Hackathon @SkidanovAlex
+  * Do things people know
+  * Prizes: long tail not winners
+  * Platforms on NEAR have their own track where you can get a prize from NEAR collective
+* BD + DevX process (Two week timeline) @potatodepaulo
+  * **Needs**
+    * Two pieces
+      * Requests - needs a communication cycle
+      * Larger companies that should/want to build on NEAR
+    * Top of funnel
+      * Root the pitches in good engineering
+
+### Retro
+
+* Good
+  * Friday hackathon was good to have
+    * Led to a list of things that went right/wrong
+  * Enjoyed writing some Rust stuff for the Oracle
+    * Good case where we use the examples for coding
+  * Stefano's buddy is going to pick up some contract stuff
+* Bad
+  * We're not there on Rust support
+    * Assumption: people don't know Rust
+  * Miscommunication
+    * We don't need to write an oracle? Do we.
+  * Competing priorities
+* Improve
+  * More examples and docs for Rust^
+
 ## DevX Sync | 14-Apr-2020
 
 ### Agenda
@@ -55,7 +130,7 @@ You can submit an issue like any other repo. These are automatically added to th
   * This looks good, but it's totally untested
     * TODO: Test the workshops.
       * @AnaisUrlichs: test the workshops by thurs.
-        * Testing: Sync with Sherif on confiedence that this is going to fly. Monday, the results are due. (Preferably with a demo in All hands meeting)
+        * Testing: Sync with Sherif on confidence that this is going to fly. Monday, the results are due. (Preferably with a demo in All hands meeting)
   * Commitment to workshops **3**
     * Ownership: @amdando holds 2, @mikedotexe holds 1, @janedegtiareva holds 1.
     * Unkown: How much is needed from me in order for you to make the workshops?
@@ -71,5 +146,3 @@ You can submit an issue like any other repo. These are automatically added to th
     * First priority for the week.
   * @vlad owns wallet side implementation.
   * @kendall owns PMing for wallet side metrics
-* Pre-Planning 
-  * 
