@@ -10,6 +10,66 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 12-May-2020
+
+### Agenda
+
+* Hot Topics
+  * Oracle Contracts ~happy path = 2 weeks knocked out
+    * nLINK needs work
+    * Some of the parts are unknown unknowns
+  * What's next
+    * Examples and Partner stuff
+    * MultiSig
+      * Clean up
+    * Fungible Token Example
+    * Clean NFT
+    * Key Value Store
+    * Research tasks: Multi contract apps (and how to manage them)
+    * Upgrade and Migration Example/Guide
+      * These are multiple examples
+        * E.g. one contract vs multiple contract
+      * "I myself have problems update delegation contract" this happens every three days.
+      * Research: Proxy Contract Methods and Functionality
+  * Something Pokeable
+    * Corgiland, corgimarket.
+    * "These are the killer features of NEAR"
+    * "Our MainNet is not a ghost town, here's what you can do with NEAR."
+    * Design meeting:
+      * Project Poke Bowl - *Real Apps for Real Shit®*
+* Board
+
+* **Delegator App**
+  * Smart Contract is done
+  * Needs Frontend from @Matt
+  * A first pass = Example app where someone delegates to a hardcoded delegator
+
+### Retro
+
+* Good
+  * RL1 = awesome!!!!
+  * Mike creating a bunch of tickets was awesome
+  * Creating tickets is a good on-demand tool for a bunch of small things
+  * Tests are green
+  * Dependabot is good
+  * Workshops were great
+  * Sherif and Willem's workshop work has permanent staying power
+  * Stress can begalvanizing
+* Bad
+  * Timeouts
+  * There is so much stuff to get across in a workshop, it's hard to not rush
+  * Slack
+  * We have an aligning conversation, then it's every man for themselves
+* Improve
+  * Make sure we don't drift into ambiguous territory
+  * Workshops should be longer! 1.5 hrs
+  * Our issues list keeps growing. Needs to be processed.
+    * Projects that we are owning needs a process for cleaninng out the issues queue
+  * Scoping and estimation
+  * Align more: "Have a conversation as a team about what tech stack we want to use"
+  * Making sure we know what the experience is like on the developer side. Dogfooding.
+  * We haven't approved NEP for shell, but we're cherry picking features.
+
 ## DevX Sync | 28-Apr-2020
 
 ### Agenda
