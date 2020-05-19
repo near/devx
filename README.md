@@ -10,6 +10,52 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 19-May-2020
+
+### Agenda/Notes
+
+* Hot Topics
+  * Requests
+    * Rev hackathon mini sessions
+      * Volunteers
+        * Peter: Intro
+        * Jane: Idea Review
+        * Sherif: AS Workshop
+        * Mike?
+    * UW Hackathon workshops
+      * 24th = Judging
+      * Two on Fri
+      * Two hours
+        * Near-api-js (1pm PST Chad)
+        * Intro to rust (Mike)
+    * Access Keys
+  * BD: Embedded Engineers
+    * Next three months
+    * StarDust would want this
+    * Flux: Starting project
+      * Sasha, Mike, Flux, Me.
+      * Set up embedded engineer kick off
+        * Set expectations for scope of work
+          * Can we record stuff?
+          * Are they open source?
+        * Agree on a task
+  * Marketing: Smoke Tests on ideas
+    * Market first
+    * Peter aggregates ideas worth testing
+      * Set up process for this
+    * Lifecycle
+      * Test Value Prop for conversion rate
+      * Use for testing language for apps already building. Link to "case studies" from our home page.
+        * Put case studies on our website and A/B test the language.
+  * Working with other teams/cross team dependencies
+    * How are we going to address this?
+    * As a team, it would be helpful to have a heads up.
+  * Metrics
+    * Needs calibration
+  * NFT and FunToken status (Punted)
+  * Docs Rotation (Discussing later)
+  * Interactive Demo (Project Poke Bowl)
+
 ## DevX Sync | 12-May-2020
 
 ### Agenda
