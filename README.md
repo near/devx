@@ -10,6 +10,45 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 27-May-2020
+
+### Agenda/Notes
+
+* Hot Topics
+  * Migration process
+    * We have 4 apps in deployed. These need process for deploying to MainNet
+    * As a developer on NEAR, I want to deploy to MainNet.
+    * Timeline: defined by projects.
+    * Requirements: We will get the scope of the project and define what we need to accomplish a migration.
+  * Embedded Engineers: Starts this week
+    * Full time?
+      * ~1.5 weeks
+    * It needs to be top down.
+    * OWC side of Flux
+      * Embedding was really good learning
+    * Mike focusing on value to the Near repos
+    * We may need a formal agreement for embedding
+  * Activity in StakeX
+    * Priotitize higher
+  * Requests
+    * Rev
+      * Rec: If we spend time on this, we capture the output
+      * Async on this
+  * Hackathon Update
+    * 90 people signed up
+    * 11 projects
+    * "It was awesome"
+  * Docs rotation
+    * Get presentation on All hands
+  * Tokens
+    * NFT
+      * Rust - README in flight
+        * (Here's how to build, here's how to test)
+      * AS - Done
+    * FunToken
+      * Rust - README
+      * AS - Draft
+
 ## DevX Sync | 19-May-2020
 
 ### Agenda/Notes
