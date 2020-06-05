@@ -10,6 +10,49 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 2-Jun-2020
+
+### Agenda/Notes
+
+* StakeX
+  * "How and why we designed near-shell, nearup etc." - Designed for designers
+    * Need: Automation for what's happening on nodes
+    * Headless ("The less interaction from a human, the better")
+      * launch a node
+      * login
+      * "Scripts that people can deploy, and parse the output for success or failure without needing to sit there and type in commands"
+    * See [the epic here](https://github.com/near/devx/issues/169)
+    * On the node, we're short on memory and storage.
+      * Request: offline RPC
+        * E.g. not every node needs to have an open json PRC, some nodes are just network nodes.
+        * Connected to Prometheus
+    * **Need: Set of docs to describe these actions**
+      * Low level operations
+        * Generate, update, backup keys
+        * E.g. "How can I use the same key across multiple shells"
+      * See the [stake wars repo for examples of challenges to update](https://github.com/nearprotocol/stakewars).
+* Embedding
+  * "Removes guesswork from hypotheses"
+    * After a meeting with Flux, issues were created directly from input with them.
+  * Basic project management has been helpful as well
+  * "We should do more of this"
+  * Next week: "How long are we going to do this with Flux?"
+    * Intuition: June Launch coordination
+* Metrics discussion
+  * There's a [new epic](https://github.com/near/devx/issues/193) from a lack of granularity
+* Shaping vs instant implementation
+  * We going to do more of this.
+* Docs
+  * Presenting on calendar about new process on Monday.
+  * Google Drive --> "All Hands"
+  * Repo has been groomed
+  * DevX team: "Pick an epic, you're responsible for closing it within 10 business days."
+    * Each epic is a collection of related issues.
+    * Suggestion: "Everyone on the DevX team pick and own (within 24 hours) it until completion"
+* Board
+  * Clean up finished tasks
+  * "We need a set way of setting this up"
+
 ## DevX Sync | 27-May-2020
 
 ### Agenda/Notes
