@@ -10,6 +10,34 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 9-Jun-2020
+
+### Agenda/Notes
+
+* Contributions
+  * Have a clear set of instructions with a clear end goal
+  * Self-service contributions where people pick up issues.
+    * Lack context
+  * Peter and Sherif set up a call DM
+  * Internal presentation on how to contribute DevX
+    * Best practices
+    * Form
+    * External docs contributors
+  * Suggestion: Scope the time we spend on this
+* Addressing external issues SLA
+  * Default assignees in the issues
+* Issues submitted across repos
+  * Transfer issue!
+  * "Can we fix the issue with transferring issues to nearcore?"
+  * Submit to devx repo if it's a vertical slice across multiple modules.
+* We need someone to do a presentation on stuff
+  * TBD
+* GitCoin Hackathon next week Requirements
+  * 1 workshop, 30min
+  * Support from 15th - 29th
+* Batch transactions
+  * Timeline: Need to write more tests and publish. End of week.
+
 ## DevX Sync | 2-Jun-2020
 
 ### Agenda/Notes
@@ -52,6 +80,10 @@ You can submit an issue like any other repo. These are automatically added to th
 * Board
   * Clean up finished tasks
   * "We need a set way of setting this up"
+* We should do an example cleanup and round 2 sprinteroo
+* Embedding reports
+  * Ends at the end of this week.
+  * Follow up meetings
 
 ## DevX Sync | 27-May-2020
 
