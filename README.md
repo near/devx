@@ -10,6 +10,49 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 16-Jun-2020
+
+### Agenda/Notes
+
+* Chad
+  * Demo 2x etc.
+* Two week cycle. We're doing it.
+* See something in testnet or betanet, but then it's a known issue by the time of reporting
+  * "Having the keys to the kingdom for explorer"
+  * Needs:
+    * Bring this up in eng sync
+    * Set up access to render (explorer) for everyone
+* Explorer becoming public
+  * needs a lot of work.
+    * Design and code reviews.
+    * At the start: It's as much work to manage as it is to do.
+  * People are confused when it doesn't work
+    * It's more important now
+  * Network indexer
+    * POC: Working version some time later this week.
+    * Come to the explorer sync @ 9:30am PST
+* A quick touchpoint: external issues
+  * Rotate responsibility: Chad
+  * Modelled on live bugs
+  * It takes ~20-30min per day.
+  * Involves reading GH issues and responding to them
+  * Process
+    * Pulling up a gh query, scanning issues
+    * Lot's of "drive by" fixes which take on scope
+    * Beneficial for housekeeping
+    * Rotation res: https://docs.google.com/document/d/1j2u_-KwJ07PDC7kgN2fX5ULQrXvAzquwSb2JCx0vqwo/edit#heading=h.c94whubdkh64
+* Docs
+  * Needs a steering commitee or some kind of alignment
+  * "Editorial vision"
+  * Set a meeting, then shut it down if we don't need it.
+    * Two weeks experiment
+    * Outcome of recurring meeting: Sheriff to coordinate.
+    * Ping in slack.
+* Core Contributor Funnel: Needs shaping
+  * "People who are most into it are the validators"
+  * Expections: "We have guidelines for the contributor program"
+  * Some people have been more involved, but it's mostly validators who do multiple programs
+
 ## DevX Sync | 9-Jun-2020
 
 ### Agenda/Notes
