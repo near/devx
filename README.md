@@ -10,6 +10,47 @@ This is where DevX for the NEAR collective is managed. You'll want [ZenHub](http
 
 You can submit an issue like any other repo. These are automatically added to the `icebox` and we review these each Tuesday at 9am PST in sync. We also watch this outside of that time.
 
+## DevX Sync | 30-Jun-2020
+
+### Agenda/Notes
+
+* Decide if we're going to spend the next several weeks on naj, and near-shell refactor.
+  * Key management for devs in near-shell
+  * Multi-contract management in near-shell and wherever else we need it
+  * **Things that need fixing**
+    * near deploy_and_init
+      * Blocking because of security vulnerability
+      * For people from Eth, it might be interesting to know there is a difference for this concept. In Eth, there is a specific concept of construction. In NEAR, there is not. This can be confusing
+    * Simulation testing is confusing
+* Chad's website proposal (not time dependent)
+  * Are we going to prioritize this?
+  * Lift
+    * Picking out of the 9 use cases.
+    * Build useful demo around a story
+    * End result is a 5 minute tutorial per demo
+    * E.g. run `npx create-near-app` then in 5 min, I have an actual useful app.
+* **Other Thoughts**
+  * Increase our examples. Make docs more straightforward.
+  * We have enough customer requests in discord. We should develop based on those.
+  * More exploratory, educational design patterns (in the libraries themselves)
+    * Signing in is an opportunity to teach people what signing in means. "The interface should help you do this." We could probably implement a wrapper.
+  * Prioritize specific changes
+    * E.g. eliminate boiler plate: default config that requires overrides.
+    * E.g. generators tool.
+
+* Developer specific newsletter support
+  * Who
+    * 40% of our email list are devs.
+  * What
+    * Goal is to split off a dev specific newsletter so the eng content doesn't get lost for developers.
+    * Capture developer interest and keep them engaged.
+    * Also pushes us to make more marketable features.
+    * A place to publish new bounties.
+  * Time
+    * 2 hours a month
+    * On-demand help. Should involve most engineers at NEAR.
+    * Needs a process for gathering info from people that's low lift, but actually leads to interesting copy.
+
 ## DevX Sync | 16-Jun-2020
 
 ### Agenda/Notes
