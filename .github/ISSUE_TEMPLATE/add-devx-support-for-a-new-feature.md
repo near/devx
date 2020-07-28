@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
-- [ ] Documentation on how to use the feature
 - [ ] Sample code in near-examples
-- [ ] Video walk through / lunch and learn for the team
+- [ ] Documentation on how to use the feature, and gas costs
+- [ ] lunch and learn for the team
+- [ ] Blog post / Video walk through
+- [ ] Community announcement
